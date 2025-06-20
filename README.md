@@ -1,3 +1,3 @@
-# Project of MUN
+# Project for MUN
 
-Im using AI to make an MUN support system
+I'm using AI to make an MUN support system.
